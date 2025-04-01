@@ -46,33 +46,7 @@ The **Vehicle Rental System** is an innovative platform designed to directly con
 - **Booking request notifications** for shopkeepers
 - **Approval/rejection notifications** for users
 
-## 🚀 Installation & Setup
 
-### Prerequisites
-Ensure you have the following installed:
-- [Node.js](https://nodejs.org/) and npm (for frontend)
-- [Java 17+](https://adoptopenjdk.net/) (for backend)
-- MySQL Database
-
-### Backend Setup
-```sh
-# Clone the repository
-git clone https://github.com/yourusername/vehicle-rental-system.git
-cd vehicle-rental-system/backend
-
-# Configure database in application.properties
-
-# Build & Run
-mvn clean install
-mvn spring-boot:run
-```
-
-### Frontend Setup
-```sh
-cd ../frontend
-npm install
-npm start
-```
 
 ## ✨ My Role – Backend Lead Developer
 As the **Lead Backend Developer**, responsibilities included:
